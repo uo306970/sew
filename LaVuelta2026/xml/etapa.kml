@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.741139,37.777817,390</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.724841,37.795408,456</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.672504,37.805248,535</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.609066,37.789150,762</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.579051,37.816196,663</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.535569,37.839860,602</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.528283,37.828231,688</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.524503,37.800769,795</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.538278,37.785691,927</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.616951,37.779423,771</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.643859,37.753857,909</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.652351,37.731091,695</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.685159,37.738473,493</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.718513,37.758494,533</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.767334,37.761766,438</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.813506,37.747540,623</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.802500,37.713398,663</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.798702,37.666651,798</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.827145,37.653873,1167</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.899595,37.652857,763</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.916146,37.618348,641</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.900287,37.588212,689</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.946030,37.537083,642</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.861350,37.564523,1032</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.809445,37.629284,1292</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description>Punto de ruta</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.775624,37.631304,1819</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Puerto de Los Villares</name>
+      <description>Puerto de montaña</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ff00</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.829711,37.652282,1180</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Puerto de Locubín</name>
+      <description>Puerto de montaña</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ff00</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.871409,37.565917,1088</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sierra de la Pandera</name>
+      <description>Puerto de montaña</description>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff00ff00</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.780697,37.631001,1798</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castillo de Locubín</name>
+      <description>Sprint intermedio</description>
+      <Style>
+        <IconStyle>
+          <color>ffff0000</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffff0000</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.945429,37.532351,640</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jaén</name>
+      <description>Salida de etapa</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff0000ff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.741139,37.777817,395</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sierra de la Pandera</name>
+      <description>Meta de etapa</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>ff0000ff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>-3.775624,37.631304,1798</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <name>Ruta de la etapa</name>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellation>1</tessellation>
+        <coordinates>-3.741139,37.777817,390
+-3.724841,37.795408,456
+-3.672504,37.805248,535
+-3.609066,37.789150,762
+-3.579051,37.816196,663
+-3.535569,37.839860,602
+-3.528283,37.828231,688
+-3.524503,37.800769,795
+-3.538278,37.785691,927
+-3.616951,37.779423,771
+-3.643859,37.753857,909
+-3.652351,37.731091,695
+-3.685159,37.738473,493
+-3.718513,37.758494,533
+-3.767334,37.761766,438
+-3.813506,37.747540,623
+-3.802500,37.713398,663
+-3.798702,37.666651,798
+-3.827145,37.653873,1167
+-3.899595,37.652857,763
+-3.916146,37.618348,641
+-3.900287,37.588212,689
+-3.946030,37.537083,642
+-3.861350,37.564523,1032
+-3.809445,37.629284,1292
+-3.775624,37.631304,1819
+</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LineString>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>5</width>
+        </LineStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>

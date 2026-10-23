@@ -1,0 +1,84 @@
+<!ELEMENT etapa (long_etapa, tiempo, v_media, desnivel, ciudad_inicio,
+ciudad_final, tipo_etapa, galeria, salida, meta, hitos, puntos_anon, clasificados)>
+<!ATTLIST etapa
+    nombre CDATA #REQUIRED
+	num CDATA #REQUIRED
+	fecha CDATA #REQUIRED>
+
+<!ELEMENT long_etapa (#PCDATA)>
+<!ATTLIST long_etapa 
+    unidad CDATA #REQUIRED>
+
+<!ELEMENT tiempo (#PCDATA)>
+
+<!ELEMENT v_media (#PCDATA)>
+<!ATTLIST v_media
+    unidad CDATA #REQUIRED>
+
+<!ELEMENT desnivel (#PCDATA)>
+<!ATTLIST desnivel
+    unidad CDATA #REQUIRED>
+
+<!ELEMENT ciudad_inicio (#PCDATA)>
+<!ELEMENT ciudad_final (#PCDATA)>
+<!ELEMENT tipo_etapa (#PCDATA)>
+
+<!ELEMENT galeria (referencia, referencia, referencia+, foto, foto?, foto?, 
+foto?, foto?, video, video?, video?, sonido, sonido?, sonido?)>
+<!ELEMENT referencia (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT video (#PCDATA)>
+<!ELEMENT sonido (#PCDATA)>
+
+<!ELEMENT salida (latitud, longitud, altitud)>
+<!ATTLIST salida
+    nombre CDATA #REQUIRED>
+
+<!ELEMENT meta (latitud, longitud, altitud)>
+<!ATTLIST meta
+    nombre CDATA #REQUIRED>
+
+<!ELEMENT hitos (puerto | sprint)*>
+<!ELEMENT puerto (latitud, longitud, altitud, distancia)>
+<!ATTLIST puerto
+    nombre CDATA #REQUIRED
+    categoria CDATA #REQUIRED>
+
+<!ELEMENT sprint (latitud, longitud, altitud, distancia)>
+<!ATTLIST sprint
+    nombre CDATA #REQUIRED
+    tipo CDATA #REQUIRED>
+
+<!ELEMENT puntos_anon (punto*)>
+<!ELEMENT punto (latitud, longitud, altitud, distancia)>
+<!ATTLIST punto
+    nombre CDATA #IMPLIED>
+
+<!ELEMENT latitud (#PCDATA)>
+<!ATTLIST latitud
+    unidad CDATA #REQUIRED>
+
+<!ELEMENT longitud (#PCDATA)>
+<!ATTLIST longitud
+    unidad CDATA #REQUIRED>
+
+<!ELEMENT altitud (#PCDATA)>
+<!ATTLIST altitud
+    unidad CDATA #REQUIRED>
+
+<!ELEMENT distancia (#PCDATA)>
+<!ATTLIST distancia
+    unidad CDATA #REQUIRED>
+
+<!ELEMENT clasificados (c_etapa, c_general, c_equipos)>
+<!ELEMENT c_etapa (primero, segundo, tercero)>
+<!ELEMENT c_general (primero, segundo, tercero)>
+<!ELEMENT c_equipos (primero, segundo, tercero)>
+
+<!ELEMENT primero (#PCDATA)>
+<!ELEMENT segundo (#PCDATA)>
+<!ATTLIST segundo
+    dif_tiempo CDATA #REQUIRED>
+<!ELEMENT tercero (#PCDATA)>
+<!ATTLIST tercero
+    dif_tiempo CDATA #REQUIRED>

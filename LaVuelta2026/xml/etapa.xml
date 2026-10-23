@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etapa SYSTEM "etapa.dtd">
+<etapa nombre="Jaén a Sierra de la Pandera" num="14" fecha="5/09/2026">
+
+<long_etapa unidad="km">154.5</long_etapa>
+<tiempo>4:15:09</tiempo>
+<v_media unidad="km/h"></v_media>
+<desnivel unidad="m">4338</desnivel>
+
+<ciudad_inicio>Jaén</ciudad_inicio>
+<ciudad_final>Sierra de la Pandera</ciudad_final>
+<tipo_etapa>Montaña</tipo_etapa>
+
+<galeria>
+    <referencia></referencia>
+    <referencia></referencia>
+    <referencia></referencia>
+    <foto></foto>
+    <video></video>
+    <sonido></sonido>
+</galeria>
+
+
+<salida nombre="Jaén"> 
+    <latitud unidad="grados"></latitud>
+    <longitud unidad="grados"></longitud>
+    <altitud unidad="m">395</altitud> 
+</salida>
+<meta nombre="Sierra de la Pandera"> 
+    <latitud unidad="grados"></latitud>
+    <longitud unidad="grados"></longitud>
+    <altitud unidad="m">1798</altitud> 
+</meta>
+
+<hitos>
+    <puerto nombre="Puerto de Los Villares" categoria="2ª categoría">
+        <latitud unidad="grados"></latitud>
+        <longitud unidad="grados"></longitud>
+        <altitud unidad="m">1180</altitud>
+        <distancia unidad="km">92.8</distancia>
+    </puerto>
+    <sprint nombre="Castillo de Locubín" tipo="Sprint intermedio">
+        <latitud unidad="grados"></latitud>
+        <longitud unidad="grados"></longitud>
+        <altitud unidad="m">640</altitud>
+        <distancia unidad="km">123.6</distancia>
+    </sprint>
+    <puerto nombre="Puerto de Locubín" categoria="2ª categoría">
+        <latitud unidad="grados"></latitud>
+        <longitud unidad="grados"></longitud>
+        <altitud unidad="m">1088</altitud>
+        <distancia unidad="km">133.2</distancia>
+    </puerto>
+    <puerto nombre="Sierra de la Pandera" categoria="1ª categoría">
+        <latitud unidad="grados"></latitud>
+        <longitud unidad="grados"></longitud>
+        <altitud unidad="m">1798</altitud>
+        <distancia unidad="km">154.5</distancia>
+    </puerto>
+</hitos>
+
+<puntos_anon>
+    <punto>
+        <latitud unidad="grados"></latitud>
+        <longitud unidad="grados"></longitud>
+        <altitud unidad="m"></altitud>
+        <distancia unidad="km"></distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados"></latitud>
+        <longitud unidad="grados"></longitud>
+        <altitud unidad="m"></altitud>
+        <distancia unidad="km"></distancia>
+    </punto>
+</puntos_anon>
+
+<clasificados>
+    <c_etapa>
+        <primero>Marco Brenner</primero>
+        <segundo dif_tiempo="+1">Santiago Buitrago</segundo>
+        <tercero dif_tiempo="+11">Cristian Rodrríguez</tercero>
+    </c_etapa>
+    <c_general>
+        <primero>Enric Mas</primero>
+        <segundo dif_tiempo="+2:06">Felix Gall</segundo>
+        <tercero dif_tiempo="+2:10">Primoz Roglic</tercero>
+    </c_general>
+    <c_equipos>
+        <primero></primero>
+        <segundo dif_tiempo=""></segundo>
+        <tercero dif_tiempo=""></tercero>
+    </c_equipos>
+</clasificados>
+
+</etapa>

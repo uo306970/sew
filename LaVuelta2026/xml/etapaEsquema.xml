@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etapa xmlns="http://www.uniovi.es" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.uniovi.es etapa.xsd" 
+    nombre="Jaén a Sierra de la Pandera" num="14" fecha="2026-09-05">
+
+<long_etapa unidad="km">154.5</long_etapa>
+<tiempo>PT4H15M9S</tiempo>
+<v_media unidad="km/h">36.33</v_media>
+<desnivel unidad="m">4338</desnivel>
+
+<ciudad_inicio>Jaén</ciudad_inicio>
+<ciudad_final>Sierra de la Pandera</ciudad_final>
+<tipo_etapa>Montaña</tipo_etapa>
+
+<galeria>
+    <referencia></referencia>
+    <referencia></referencia>
+    <referencia></referencia>
+    <foto></foto>
+    <video></video>
+    <sonido></sonido>
+</galeria>
+
+
+<salida nombre="Jaén"> 
+    <latitud unidad="grados">37.777817</latitud>
+    <longitud unidad="grados">-3.741139</longitud>
+    <altitud unidad="m">395</altitud> 
+</salida>
+<meta nombre="Sierra de la Pandera"> 
+    <latitud unidad="grados">37.631304</latitud>
+    <longitud unidad="grados">-3.775624</longitud>
+    <altitud unidad="m">1798</altitud> 
+</meta>
+
+<hitos>
+    <puerto nombre="Puerto de Los Villares" categoria="2ª categoría">
+        <latitud unidad="grados">37.652282</latitud>
+        <longitud unidad="grados">-3.829711</longitud>
+        <altitud unidad="m">1180</altitud>
+        <distancia unidad="km">92.8</distancia>
+    </puerto>
+    <sprint nombre="Castillo de Locubín" tipo="Sprint intermedio">
+        <latitud unidad="grados">37.532351</latitud>
+        <longitud unidad="grados">-3.945429</longitud>
+        <altitud unidad="m">640</altitud>
+        <distancia unidad="km">123.6</distancia>
+    </sprint>
+    <puerto nombre="Puerto de Locubín" categoria="2ª categoría">
+        <latitud unidad="grados">37.565917</latitud>
+        <longitud unidad="grados">-3.871409</longitud>
+        <altitud unidad="m">1088</altitud>
+        <distancia unidad="km">133.2</distancia>
+    </puerto>
+    <!-- Lo puse un poco antes para que no se superponga con la meta en el KML -->
+    <puerto nombre="Sierra de la Pandera" categoria="1ª categoría">
+        <latitud unidad="grados">37.631001</latitud>
+        <longitud unidad="grados">-3.780697</longitud>
+        <altitud unidad="m">1798</altitud>
+        <distancia unidad="km">153.5</distancia>
+    </puerto>
+</hitos>
+
+<puntos_anon>
+    <punto>
+        <latitud unidad="grados">37.777817</latitud>
+        <longitud unidad="grados">-3.741139</longitud>
+        <altitud unidad="m">390</altitud>
+        <distancia unidad="km">0</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.795408</latitud>
+        <longitud unidad="grados">-3.724841</longitud>
+        <altitud unidad="m">456</altitud>
+        <distancia unidad="km">2.81</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.805248</latitud>
+        <longitud unidad="grados">-3.672504</longitud>
+        <altitud unidad="m">535</altitud>
+        <distancia unidad="km">7.76</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.789150</latitud>
+        <longitud unidad="grados">-3.609066</longitud>
+        <altitud unidad="m">762</altitud>
+        <distancia unidad="km">14.16</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.816196</latitud>
+        <longitud unidad="grados">-3.579051</longitud>
+        <altitud unidad="m">663</altitud>
+        <distancia unidad="km">18.69</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.839860</latitud>
+        <longitud unidad="grados">-3.535569</longitud>
+        <altitud unidad="m">602</altitud>
+        <distancia unidad="km">24.05</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.828231</latitud>
+        <longitud unidad="grados">-3.528283</longitud>
+        <altitud unidad="m">688</altitud>
+        <distancia unidad="km">26.11</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.800769</latitud>
+        <longitud unidad="grados">-3.524503</longitud>
+        <altitud unidad="m">795</altitud>
+        <distancia unidad="km">30.94</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.785691</latitud>
+        <longitud unidad="grados">-3.538278</longitud>
+        <altitud unidad="m">927</altitud>
+        <distancia unidad="km">36.54</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.779423</latitud>
+        <longitud unidad="grados">-3.616951</longitud>
+        <altitud unidad="m">771</altitud>
+        <distancia unidad="km">46.8</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.753857</latitud>
+        <longitud unidad="grados">-3.643859</longitud>
+        <altitud unidad="m">909</altitud>
+        <distancia unidad="km">50.81</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.731091</latitud>
+        <longitud unidad="grados">-3.652351</longitud>
+        <altitud unidad="m">695</altitud>
+        <distancia unidad="km">55.05</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.738473</latitud>
+        <longitud unidad="grados">-3.685159</longitud>
+        <altitud unidad="m">493</altitud>
+        <distancia unidad="km">59.78</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.758494</latitud>
+        <longitud unidad="grados">-3.718513</longitud>
+        <altitud unidad="m">533</altitud>
+        <distancia unidad="km">64.33</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.761766</latitud>
+        <longitud unidad="grados">-3.767334</longitud>
+        <altitud unidad="m">438</altitud>
+        <distancia unidad="km">68.8</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.747540</latitud>
+        <longitud unidad="grados">-3.813506</longitud>
+        <altitud unidad="m">623</altitud>
+        <distancia unidad="km">75.53</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.713398</latitud>
+        <longitud unidad="grados">-3.802500</longitud>
+        <altitud unidad="m">663</altitud>
+        <distancia unidad="km">79.71</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.666651</latitud>
+        <longitud unidad="grados">-3.798702</longitud>
+        <altitud unidad="m">798</altitud>
+        <distancia unidad="km">86.25</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.653873</latitud>
+        <longitud unidad="grados">-3.827145</longitud>
+        <altitud unidad="m">1167</altitud>
+        <distancia unidad="km">92.51</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.652857</latitud>
+        <longitud unidad="grados">-3.899595</longitud>
+        <altitud unidad="m">763</altitud>
+        <distancia unidad="km">100.95</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.618348</latitud>
+        <longitud unidad="grados">-3.916146</longitud>
+        <altitud unidad="m">641</altitud>
+        <distancia unidad="km">108.77</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.588212</latitud>
+        <longitud unidad="grados">-3.900287</longitud>
+        <altitud unidad="m">689</altitud>
+        <distancia unidad="km">113.80</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.537083</latitud>
+        <longitud unidad="grados">-3.946030</longitud>
+        <altitud unidad="m">642</altitud>
+        <distancia unidad="km">122.52</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.564523</latitud>
+        <longitud unidad="grados">-3.861350</longitud>
+        <altitud unidad="m">1032</altitud>
+        <distancia unidad="km">134.44</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.629284</latitud>
+        <longitud unidad="grados">-3.809445</longitud>
+        <altitud unidad="m">1292</altitud>
+        <distancia unidad="km">147.66</distancia>
+    </punto>
+    <punto>
+        <latitud unidad="grados">37.631304</latitud>
+        <longitud unidad="grados">-3.775624</longitud>
+        <altitud unidad="m">1819</altitud>
+        <distancia unidad="km">154.5</distancia>
+    </punto>
+</puntos_anon>
+
+<clasificados>
+    <c_etapa>
+        <primero>Marco Brenner</primero>
+        <segundo dif_tiempo="PT1S">Santiago Buitrago</segundo>
+        <tercero dif_tiempo="PT11S">Cristian Rodrríguez</tercero>
+    </c_etapa>
+    <c_general>
+        <primero>Enric Mas</primero>
+        <segundo dif_tiempo="PT2M6S">Felix Gall</segundo>
+        <tercero dif_tiempo="PT2M10S">Primoz Roglic</tercero>
+    </c_general>
+    <c_equipos>
+        <primero>XDS Astana Team</primero>
+        <segundo dif_tiempo="PT57S">UAE Team Emirates XRG</segundo>
+        <tercero dif_tiempo="PT5M41S">Burgos-Burpellet-BH</tercero>
+    </c_equipos>
+</clasificados>
+
+</etapa>

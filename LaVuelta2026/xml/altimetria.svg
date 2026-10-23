@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="2.0">
+  <line x1="95" y1="550.0" x2="100" y2="550.0" stroke="black" strokeWith="1" />
+  <text x="55" y="554.0" fontFamily="Arial" fontSize="10" style="none">0</text>
+  <line x1="95" y1="522.0" x2="100" y2="522.0" stroke="black" strokeWith="1" />
+  <text x="55" y="526.0" fontFamily="Arial" fontSize="10" style="none">200</text>
+  <line x1="95" y1="494.0" x2="100" y2="494.0" stroke="black" strokeWith="1" />
+  <text x="55" y="498.0" fontFamily="Arial" fontSize="10" style="none">400</text>
+  <line x1="95" y1="466.0" x2="100" y2="466.0" stroke="black" strokeWith="1" />
+  <text x="55" y="470.0" fontFamily="Arial" fontSize="10" style="none">600</text>
+  <line x1="95" y1="438.0" x2="100" y2="438.0" stroke="black" strokeWith="1" />
+  <text x="55" y="442.0" fontFamily="Arial" fontSize="10" style="none">800</text>
+  <line x1="95" y1="410.0" x2="100" y2="410.0" stroke="black" strokeWith="1" />
+  <text x="55" y="414.0" fontFamily="Arial" fontSize="10" style="none">1000</text>
+  <line x1="95" y1="382.0" x2="100" y2="382.0" stroke="black" strokeWith="1" />
+  <text x="55" y="386.0" fontFamily="Arial" fontSize="10" style="none">1200</text>
+  <line x1="95" y1="354.0" x2="100" y2="354.0" stroke="black" strokeWith="1" />
+  <text x="55" y="358.0" fontFamily="Arial" fontSize="10" style="none">1400</text>
+  <line x1="95" y1="326.0" x2="100" y2="326.0" stroke="black" strokeWith="1" />
+  <text x="55" y="330.0" fontFamily="Arial" fontSize="10" style="none">1600</text>
+  <line x1="95" y1="298.0" x2="100" y2="298.0" stroke="black" strokeWith="1" />
+  <text x="55" y="302.0" fontFamily="Arial" fontSize="10" style="none">1800</text>
+  <line x1="100" y1="550" x2="100" y2="298.0" stroke="black" strokeWith="1" />
+  <line x1="100" y1="550" x2="1000" y2="550" stroke="black" strokeWith="1" />
+  <polyline points="100,550 100.0,495.4 116.36893203883496,486.15999999999997 145.20388349514565,475.1 182.48543689320388,443.32 208.873786407767,457.18 240.0970873786408,465.72 252.09708737864077,453.68 280.2330097087379,438.7 312.8543689320388,420.22 372.62135922330094,442.06 395.9805825242718,422.74 420.6796116504854,452.7 448.2330097087379,480.98 474.7378640776699,475.38 500.7766990291262,488.68 539.9805825242719,462.78 564.3300970873786,457.18 602.4271844660194,438.28 638.8932038834952,386.62 688.0582524271845,443.18 733.6116504854368,460.26 762.9126213592233,453.53999999999996 813.7087378640776,460.12 883.1456310679612,405.52 960.1553398058253,369.12 1000.0,295.34000000000003 1000.0,550" stroke="red" strokeWith="2" fill="red" />
+  <line x1="640.5825242718446" y1="550" x2="640.5825242718446" y2="95" stroke="black" strokeWith="1" />
+  <line x1="640.5825242718446" y1="550" x2="640.5825242718446" y2="555" stroke="black" strokeWith="1" />
+  <text x="628.5825242718446" y="570" fontFamily="Arial" fontSize="10" style="none">92.8</text>
+  <text x="648.5825242718446" y="100" fontFamily="Arial" fontSize="11" style="writing-mode: tb; glyph-orientation-vertical: 0; fill: black;">Puerto de Los Villares / 1180 m</text>
+  <circle cx="640.5825242718446" cy="80" r="12" fill="purple" />
+  <text x="640.5825242718446" y="84" fontFamily="Arial" fontSize="12" style="fill: white; font-weight: bold; text-anchor: middle;">2</text>
+  <line x1="819.9999999999999" y1="550" x2="819.9999999999999" y2="95" stroke="black" strokeWith="1" />
+  <line x1="819.9999999999999" y1="550" x2="819.9999999999999" y2="555" stroke="black" strokeWith="1" />
+  <text x="807.9999999999999" y="570" fontFamily="Arial" fontSize="10" style="none">123.6</text>
+  <text x="827.9999999999999" y="100" fontFamily="Arial" fontSize="11" style="writing-mode: tb; glyph-orientation-vertical: 0; fill: black;">Castillo de Locubín / 640 m</text>
+  <circle cx="819.9999999999999" cy="80" r="12" fill="green" />
+  <text x="819.9999999999999" y="84" fontFamily="Arial" fontSize="12" style="fill: white; font-weight: bold; text-anchor: middle;">SP</text>
+  <line x1="875.9223300970873" y1="550" x2="875.9223300970873" y2="95" stroke="black" strokeWith="1" />
+  <line x1="875.9223300970873" y1="550" x2="875.9223300970873" y2="555" stroke="black" strokeWith="1" />
+  <text x="863.9223300970873" y="570" fontFamily="Arial" fontSize="10" style="none">133.2</text>
+  <text x="883.9223300970873" y="100" fontFamily="Arial" fontSize="11" style="writing-mode: tb; glyph-orientation-vertical: 0; fill: black;">Puerto de Locubín / 1088 m</text>
+  <circle cx="875.9223300970873" cy="80" r="12" fill="purple" />
+  <text x="875.9223300970873" y="84" fontFamily="Arial" fontSize="12" style="fill: white; font-weight: bold; text-anchor: middle;">2</text>
+  <line x1="100.0" y1="550" x2="100.0" y2="95" stroke="black" strokeWith="1" />
+  <line x1="100.0" y1="550" x2="100.0" y2="555" stroke="black" strokeWith="1" />
+  <text x="88.0" y="570" fontFamily="Arial" fontSize="10" style="none">0</text>
+  <text x="108.0" y="100" fontFamily="Arial" fontSize="11" style="writing-mode: tb; glyph-orientation-vertical: 0; fill: black;">JAÉN / 395 m</text>
+  <circle cx="100.0" cy="80" r="12" fill="blue" />
+  <text x="100.0" y="84" fontFamily="Arial" fontSize="12" style="fill: white; font-weight: bold; text-anchor: middle;">S</text>
+  <line x1="1000.0" y1="550" x2="1000.0" y2="95" stroke="black" strokeWith="1" />
+  <line x1="1000.0" y1="550" x2="1000.0" y2="555" stroke="black" strokeWith="1" />
+  <text x="988.0" y="570" fontFamily="Arial" fontSize="10" style="none">154.5</text>
+  <text x="1008.0" y="100" fontFamily="Arial" fontSize="11" style="writing-mode: tb; glyph-orientation-vertical: 0; fill: black;">SIERRA DE LA PANDERA / 1798 m</text>
+  <circle cx="1000.0" cy="80" r="12" fill="red" />
+  <text x="1000.0" y="84" fontFamily="Arial" fontSize="12" style="fill: white; font-weight: bold; text-anchor: middle;">M</text>
+  <circle cx="1000.0" cy="54" r="12" fill="purple" />
+  <text x="1000.0" y="58" fontFamily="Arial" fontSize="12" style="fill: white; font-weight: bold; text-anchor: middle;">1</text>
+  <text x="450" y="630" fontFamily="Arial" fontSize="30" style="font-weight: bold;">Desnivel positivo: 4338 m</text>
+</svg>

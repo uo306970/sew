@@ -1,0 +1,172 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>LaVuelta2026: Juegos</title>
+
+    <meta name="author" content="Uxue Cuenca Azpiazu" />
+    <meta name="description" content="Documento Juegos del proyecto LaVuelta2026" />
+   
+    <meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" href="multimedia/favicon.ico" />
+    
+    <!--Enlace a las hojas de estilo-->
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+</head>
+
+<body>
+   <header>
+        <h1><a href="index.html" title="Página principal">LaVuelta2026</a></h1>
+        <nav>
+            <a title="Página de inicio." href="index.html">Inicio</a>
+            <a title="Página para consultar los ciclistas." href="ciclista.html">Ciclista</a>
+            <a title="Página para consultar los equipos." href="equipo.html">Equipo</a>
+            <a title="Página para ver datos de la etapa." href="etapa.html">Etapa</a>
+            <a title="Página para ver la meteorología." href="meteorologia.html">Meteorología</a>
+            <a title="Página pra consultar las clasificaciones." href="clasificaciones.html">Clasificaciones</a>
+            <a aria-current="page" title="Página para ver los juegos." href="juegos.html">Juegos</a>
+            <a title="Página para acceder a la ayuda." href="ayuda.html">Ayuda</a>
+        </nav>
+   </header>
+
+   <nav aria-label="migas">
+     <ol>
+        <li><a href="index.html">Inicio</a></li>
+        <li>|</li>
+        <li>Juegos</li>
+     </ol>
+   </nav>
+
+   <main>
+   <h2>Juegos</h2>
+   <h3>¿Conoces la etapa?</h3>
+   <p>El juego consiste en responder 10 preguntas sobre la información de la etapa.</p>
+   <form>
+        <fieldset>
+            <legend>Jaén a Sierra de la Pandera</legend>
+            <p>
+                <label for="NumEtapa">¿Cuál es el número de esta etapa?</label>
+                <input id="NumEtapa" type="number" min="1" max="21"/>
+            </p>
+            <p>
+                <label for="FechaCeleb">¿Cuál es la fecha de celebración de esta etapa?</label>
+                <input id="FechaCeleb" type="date"/>
+            </p>
+            <p>
+                <label for="LugarSalida">¿Cuál es el lugar de salida de esta etapa?</label>
+                <select id="LugarSalida">
+                    <option value="">Selecciona una opción</option>
+                    <option value="monaco">Monaco</option>
+                    <option value="gruissan">Gruissan-Aude</option>
+                    <option value="andorra">Andorra la Vella</option>
+                    <option value="falset">Falset. Costa Daurada</option>
+                    <option value="alcossebre">Alcossebre</option>
+                    <option value="vall">Vall d'Alba</option>
+                    <option value="pucol">Puçol</option>
+                    <option value="joiosa">Villajoyosa</option>
+                    <option value="alcaraz">Alcaraz</option>
+                    <option value="cartagena">Cartagena</option>
+                    <option value="vera">Vera</option>
+                    <option value="almunecar">Almuñécar</option>
+                    <option value="jaen">Jaén</option>
+                    <option value="palma">Palma del Río</option>
+                    <option value="cortegana">Cortegana</option>
+                    <option value="hermanas">Dos Hermanas</option>
+                    <option value="santa">El Puerto de Santa María</option>
+                    <option value="velez">Vélez-Málaga</option>
+                    <option value="calahorra">La Calahorra</option>
+                    <option value="carrefour">Carrefour Granada</option>
+                </select>
+            </p>
+            <p>
+                <label for="LugarLlegada">¿Cuál es el lugar de llegada de esta etapa?</label>
+                <select id="LugarLlegada">
+                    <option value="">Selecciona una opción</option>
+                    <option value="monaco">Monaco</option>
+                    <option value="manosque">Manosque</option>
+                    <option value="romeu">Font Romeu</option>
+                    <option value="andorra">Andorra la Vella</option>
+                    <option value="roquetes">Roquetes. Terres de l'Ebre</option>
+                    <option value="castello">Castelló</option>
+                    <option value="aramon">Aramón Valdelinares</option>
+                    <option value="xeraco">Xeraco</option>
+                    <option value="aitana">Alto de Aitana. Costa</option>
+                    <option value="elche">Elche de la Sierra</option>
+                    <option value="lorca">Lorca</option>
+                    <option value="calar">Calar Alto</option>
+                    <option value="loja">Loja</option>
+                    <option value="sierra">Sierra de la Pandera</option>
+                    <option value="cordoba">Córdoba</option>
+                    <option value="rabida">La Rábida. Palos de la Frontera</option>
+                    <option value="sevilla">Sevilla</option>
+                    <option value="jerez">Jerez de la Frontera</option>
+                    <option value="estepona">Peñas Blancas. Estepona</option>
+                    <option value="collado">Collado del Alguacil</option>
+                    <option value="granada">Granada</option>
+                </select>
+            </p>
+            <p>
+                <label>¿Cuál es el tipo de etapa?</label><br>
+                <input id="tipoLlana" type="radio" name="tipoEtapa"/>
+                <label for="tipoLlana">Llana</label><br>
+                <input id="tipoMedia" type="radio" name="tipoEtapa"/>
+                <label for="tipoMedia">Media montaña</label><br>
+                <input id="tipoMontana" type="radio" name="tipoEtapa"/>
+                <label for="tipoMontana">Montaña</label><br>
+                <input id="tipoCRI" type="radio" name="tipoEtapa"/>
+                <label for="tipoCRI">Contrarreloj individual</label><br>
+                <input id="tipoCRE" type="radio" name="tipoEtapa"/>
+                <label for="tipoCRE">Contrarreloj por equipos</label>
+            </p>
+            <p>
+                <label>¿Qué hitos están presentes en la etapa?</label><br>
+                <input id="hitoPuerto" type="checkbox"/>
+                <label for="hitoPuerto">Puerto de montaña</label><br>
+                <input id="hitoEspecial" type="checkbox"/>
+                <label for="hitoEspecial">Puerto categoría especial</label><br>
+                <input id="hitoSprintInt" type="checkbox"/>
+                <label for="hitoSprintInt">Sprint intermedio</label><br>
+                <input id="hitoSprintBon" type="checkbox"/>
+                <label for="hitoSprintBon">Sprint bonificado</label><br>
+                <input id="hitoSin" type="checkbox"/>
+                <label for="hitoSin">Sin hitos</label>
+            </p>
+            <p>
+                <label for="dureza">Valora la dureza de la etapa:</label>
+                <input id="dureza" type="range" min="1" max="10"/>
+            </p>
+            <p>
+                <label for="longitud">¿Cuál es la longitud de la etapa en km?</label>
+                <input id="longitud" type="number" min="1"/>
+            </p>
+            <p>
+                <label for="desnivel">¿Cuál es el desnivel de la etapa en metros?</label>
+                <input id="desnivel" type="number" min="1"/>
+            </p>
+            <p>
+                <label for="descripcion">Describe brevemente la etapa:</label><br>
+                <textarea id="descripcion"></textarea>
+            </p>
+            <p>
+                <label for="nombreJugador">Introduce tu nombre:</label>
+                <input id="nombreJugador" type="text"/>
+            </p>
+            <p>
+                <button type="submit">Enviar</button>
+            </p>
+        </fieldset>
+   </form>
+   </main>
+   
+   <footer>
+        <p>Uxue Cuenca Azpiazu</p>
+        <address>
+            <a href="mailto:UO306970@uniovi.es">UO306970@uniovi.es</a>
+        </address>
+    </footer>
+</body>
+</html>

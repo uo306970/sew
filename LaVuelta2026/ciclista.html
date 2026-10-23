@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>LaVuelta2026:Ciclista</title>
+
+    <meta name="author" content="Uxue Cuenca Azpiazu" />
+    <meta name="description" content="Documento Ciclista del proyecto LaVuelta2026" />
+    
+    <meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" href="multimedia/favicon.ico" />
+
+    <!--Enlace a las hojas de estilo-->
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+</head>
+
+<body>
+   <header>
+        <h1><a href="index.html" title="Página principal">LaVuelta2026</a></h1>
+        <nav>
+            <a title="Página de inicio." href="index.html">Inicio</a>
+            <a aria-current="page" title="Página para consultar los ciclistas." href="ciclista.html">Ciclista</a>
+            <a title="Página para consultar los equipos." href="equipo.html">Equipo</a>
+            <a title="Página para ver datos de la etapa." href="etapa.html">Etapa</a>
+            <a title="Página para ver la meteorología." href="meteorologia.html">Meteorología</a>
+            <a title="Página pra consultar las clasificaciones." href="clasificaciones.html">Clasificaciones</a>
+            <a title="Página para ver los juegos." href="juegos.html">Juegos</a>
+            <a title="Página para acceder a la ayuda." href="ayuda.html">Ayuda</a>
+        </nav>
+   </header>
+
+   <nav aria-label="migas">
+     <ol>
+        <li><a href="index.html">Inicio</a></li>
+        <li>|</li>
+        <li>Ciclista</li>
+     </ol>
+   </nav>
+
+   <main>
+   <h2>Roman Ermakov</h2>
+   <section>
+        <h3>Datos personales</h3>
+        <ul>
+            <li>Roman Ermakov</li>
+            <li>06/10/2004</li>
+            <li>Eslovenia</li>
+            <li>BAHRAIN VICTORIOUS/brn</li>
+            <li>N°73</li>
+        </ul>
+        <picture>
+            <source media="(max-width: 768px)"
+                    srcset="multimedia/ciclista_movil.png" width="180" height="273">
+            <source media="(max-width: 1024px)"
+                    srcset="multimedia/ciclista_tablet.png" width="240" height="364">
+            <img src="multimedia/ciclista.png" alt="Fotografía de Roman Ermakov del equipo Bahrain Victorious" width="300" height="455">
+        </picture>
+        
+   </section>
+   <section>
+        <h3>Datos equipos</h3>
+        <ol>
+            <li>Bahrain Victorious</li>
+            <li>CTF Victorious</li>
+            <li>Cycling Team Friuli ASD</li>
+            <li>Cannibal Team</li>
+        </ol>
+   </section>
+   <section>
+        <h3>Temporada 2025</h3>
+        <table>
+            <tr>
+                <th id="col-datos" scope="col">DATOS</th>
+                <th id="col-resultados" scope="col">RESULTADOS</th>
+            </tr>
+            <tr>
+                <td headers="col-datos">Tour de Guangxi</td>
+                <td headers="col-resultados">Posición 64</td>
+            </tr>
+            <tr>
+                <td headers="col-datos">Coppa Bernocchi</td>
+                <td headers="col-resultados">No terminó</td>
+            </tr>
+            <tr>
+                <td headers="col-datos">Vuelta a España</td>
+                <td headers="col-resultados">Posición 78</td>
+            </tr>
+            <tr>
+                <td headers="col-datos">Tour de Polonia</td>
+                <td headers="col-resultados">Posición 61</td>
+            </tr>
+            <tr>
+                <td headers="col-datos">Tour de Wallonie</td>
+                <td headers="col-resultados">Posición 38</td>
+            </tr>
+            <tr>
+                <td headers="col-datos">Tour de Eslovenia</td>
+                <td headers="col-resultados">Posición 34</td>
+            </tr>
+        </table>
+   </section>
+   <section>
+        <h3>Multimedia</h3>
+        <p>Equipo 
+            <a href="https://www.lavuelta.es/es/equipo/TBV/bahrain-victorious">Bahrain Victorious</a> 
+            en la Vuelta Ciclista a España 2026.
+        </p>
+        <video controls poster="multimedia/portada_equipo.jpg">
+            <source src= "multimedia/video_equipo.mp4" type= "video/mp4" />
+            <source src= "multimedia/video_equipo.webm" type="video/webm" />
+            Su navegador no soporta el elemento video
+        </video>
+        <audio controls>
+            <source src= "multimedia/audio_equipo.mp3" type="audio/mpeg" />
+            <source src= "multimedia/audio_equipo.wav" type="audio/wav" />
+            Su navegador no soporta el elemento audio
+</audio>
+   </section>
+   </main>
+   
+   <footer>
+        <p>Uxue Cuenca Azpiazu</p>
+        <address>
+            <a href="mailto:UO306970@uniovi.es">UO306970@uniovi.es</a>
+        </address>
+    </footer>
+</body>
+</html>
